@@ -60,5 +60,5 @@ __END__
 </html>
 
 @@ index
-bttrack version <%= @version %><br/>
+panda version <%= @version %><br/>
 tracking <%= @torrents_count %> torrent(s)
