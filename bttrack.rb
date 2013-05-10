@@ -61,4 +61,4 @@ __END__
 
 @@ index
 panda version <%= @version %><br/>
-tracking <%= @torrents_count %> torrent(s)
+managing <%= @torrents_count %> documents(s)
